@@ -10,8 +10,8 @@ This project explores the use of deep autoencoders for detecting malicious PDF f
 
 📁 Contents
 - anomaly_detection.ipynb: Main notebook with data processing, model training, and evaluation.
-- PDFMalware2022.parquet: Preprocessed metadata features from the CIC PDF malware dataset.
-- DL_paper.pdf: Final research report describing the motivation, methodology, results, and future work.
+- PDFMalware2022.parquet: Metadata features from the CIC PDF malware dataset.
+- DL_paper.pdf: Final research report.
 
 📊 Dataset
 Source: CIC-Evasive-PDFMal2022
