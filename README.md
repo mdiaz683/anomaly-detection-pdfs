@@ -19,5 +19,4 @@ https://www.unb.ca/cic/datasets/pdfmal-2022.html
 https://www.kaggle.com/datasets/dhoogla/cic-evasive-pdfmal2022
 
 
-🔐 Security Precautions
-All analysis was conducted on structured metadata only. No raw PDF files were opened to ensure safety.
+🔐 Security Precautions: All analysis was conducted on structured metadata only. No raw PDF files were opened to ensure safety.
